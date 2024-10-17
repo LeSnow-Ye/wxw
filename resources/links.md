@@ -2,7 +2,7 @@
 title: 实用网站
 description: 
 published: true
-date: 2024-08-13T12:15:07.125Z
+date: 2024-10-17T07:17:24.556Z
 tags: 资源
 editor: markdown
 dateCreated: 2024-08-05T03:13:44.324Z
@@ -27,6 +27,7 @@ dateCreated: 2024-08-05T03:13:44.324Z
 
 ## 综合
 
+- [🍺THU手册](https://yourschool.cc/thubook/)
 - [THU Wiki](https://thu.wiki/)
 
 ## 数学
