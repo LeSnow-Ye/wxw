@@ -2,7 +2,7 @@
 title: 实用网站
 description: 
 published: true
-date: 2024-10-17T07:17:24.556Z
+date: 2024-12-21T10:49:51.462Z
 tags: 资源
 editor: markdown
 dateCreated: 2024-08-05T03:13:44.324Z
@@ -24,6 +24,8 @@ dateCreated: 2024-08-05T03:13:44.324Z
 - [计算机系学生科协技能引导文档 - SAST skill docs](https://docs.net9.org/)
 - [未央学习](https://weyoung-learn.github.io/)
 - [华清大学课程攻略共享计划](https://in.closed.social:9443/pastExam/)
+
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 
 ## 综合
 
